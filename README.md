@@ -1,7 +1,7 @@
 **Young Future Developer**
 
-![C#](https://www.w3schools.com/cs/index.php)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://banner2.cleanpng.com/20180831/iua/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-1713945971245.webp)
+![Java](https://w7.pngwing.com/pngs/727/307/png-transparent-java-development-kit-operating-systems-android-macos-android-text-logo-computer-program-thumbnail.png)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
