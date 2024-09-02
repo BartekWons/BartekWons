@@ -8,7 +8,7 @@
     I'm young future developer
 </div>
 
-<br>
+<br/>
 
 <div align="center">
     🌱 I’m currently learning **C#, WPF, MS Azure**
@@ -17,17 +17,8 @@
 
 </div>
 
+<br/>
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=csharp,cpp,java,nextjs,mysql" /><br>
 </div>
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
