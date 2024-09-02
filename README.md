@@ -3,6 +3,20 @@
 </h1>
 
 <br/>
+
+<div align="center">>
+    I'm young future developer
+</div>
+
+<br>
+
+<div align="center">
+    🌱 I’m currently learning **C#, WPF, MS Azure**
+
+    ⚡ Fun fact **Peter Parker is Spider-Man**
+
+</div>
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=csharp,cpp,java,nextjs,mysql" /><br>
 </div>
