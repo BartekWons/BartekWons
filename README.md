@@ -1,12 +1,18 @@
-**Young Future Developer**
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+young+future+developer!;" />
+</h1>
 
-![C#](https://banner2.cleanpng.com/20180831/iua/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-1713945971245.webp)
-![Java](https://w7.pngwing.com/pngs/727/307/png-transparent-java-development-kit-operating-systems-android-macos-android-text-logo-computer-program-thumbnail.png)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<div>
+    <p>
+        Languages-Tools
+    </p>
 
-<!--
-**BartekWons/BartekWons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    <a href="https://www.flaticon.com/free-icon/c-sharp_6132221"></a>
+    <a href="https://www.flaticon.com/free-icon/c_6132222"></a>
+    <a href="https://www.flaticon.com/free-icon/java_5968282?term=java&page=1&position=2&origin=search&related_id=5968282"></a>
+    <a href="https://www.flaticon.com/free-icon/mysql_919836?term=mysql&page=1&position=4&origin=search&related_id=919836"></a>
+
+</div>
 
 Here are some ideas to get you started:
 
@@ -18,4 +24,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
