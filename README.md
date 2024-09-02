@@ -20,5 +20,5 @@
 <hr/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=csharp,cpp,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=c-sharp,cpp,java,mysql" /><br>
 </div>
