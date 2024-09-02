@@ -20,5 +20,6 @@
 <hr/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c-sharp,cpp,java,mysql" /><br>
+    <p>Languages-Tools </p>
+    <img src="https://skillicons.dev/icons?i=c-sharp_6132221,cpp,java,mysql" /><br>
 </div>
