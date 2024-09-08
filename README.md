@@ -11,10 +11,8 @@
 <hr/>
 
 <div align="center">
-    🌱 I’m currently learning **C#, WPF, MS Azure**
-
-    ⚡ Fun fact **Peter Parker is Spider-Man**
-
+    🌱 I’m currently learning: C#, WPF, MS Azure:
+    ⚡ Fun fact: Peter Parker is Spider-Man
 </div>
 
 <hr/>
