@@ -26,7 +26,4 @@
     <p>Languages-Tools </p>
     <img src="https://skillicons.dev/icons?i=cs,cpp,java,mysql,golang,postgresql,postman,github,git" /><br>
 </div>
-<div align="center">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BartekWons)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 <hr/>
