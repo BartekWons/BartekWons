@@ -12,7 +12,7 @@
 
 <div align="center">
     <p>
-        🌱 I’m currently learning: C#, WPF, MS Azure:
+        🌱 I’m currently learning: C#, ASP.NET Core, MS Azure:
     </p>
     <p>
         ⚡ Fun fact: Peter Parker is Spider-Man
