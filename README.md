@@ -24,6 +24,6 @@
 
 <div align="center">
     <p>Languages-Tools </p>
-    <img src="https://skillicons.dev/icons?i=cs,cpp,java,mysql,golang,postgresql,postman,github,git,linux,ubuntu" /><br>
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,java,mysql,golang,postgresql,postman,github,git,linux,ubuntu" /><br>
 </div>
 <hr/>
